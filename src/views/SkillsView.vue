@@ -6,8 +6,8 @@ import PixelWaveBackground from "@/components/ui/PixelWaveBackground.vue";
 import DecryptedText from "@/components/ui/DecryptedText.vue";
 
 const coreSkills = [
-  { name: "Programation Web", level: 79 },
-  { name: "Programation Logiciel", level: 98 },
+  { name: "Programation", level: 80 },
+  { name: "Infographie", level: 66 },
   { name: "Maintenance matériel", level: 100 },
   { name: "Linux", level: 80 },
   { name: "Gestion de Déploiement", level: 50 },
